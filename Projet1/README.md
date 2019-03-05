@@ -34,18 +34,18 @@ peptidiques ou résidus manquants entre les différents segments de la protéine
 
 - La protéine MAVS possède 540aa.
 - Les domaines et leur localisation sont les suivants :
-![table](https://github.com/BioHackatonUdeM/2019_Projet_1/blob/master/projet1.png)
+![table](https://github.com/BioHackatonUdeM/BioHack2019/blob/master/Projet1/projet1.png)
 
 ## Objectif
 
 1) Générer la structure de MAVS aa 1- 468
 Les structures que nous avons à disposition et vous proposons d’utiliser sont les suivantes :
-- [Structure de MAVS  1-93aa ](https://github.com/BioHackatonUdeM/2019_Projet_1/blob/master/MAVS_pdb_2ms8_1-100.ent): PDB disponible dans UniProt (2VGQ). Méthode : X-ray.
-- [Structure de MAVS  80-447aa](https://github.com/BioHackatonUdeM/2019_Projet_1/blob/master/MAVS_80-447_ProMod3.pdb) : PDB obtenu par modélisation avec le SWISS-Model ProMod3.
-- [Structure de MAVS  450-468aa](https://github.com/BioHackatonUdeM/2019_Projet_1/blob/master/MAVS_pdb_4z8m_453-461(2).pse) : PDB disponible dans UniProt (4Z8M). Méthode : X-ray.
+- [Structure de MAVS  1-93aa ](https://github.com/BioHackatonUdeM/BioHack2019/blob/master/Projet1/MAVS_pdb_2ms8_1-100.ent): PDB disponible dans UniProt (2VGQ). Méthode : X-ray.
+- [Structure de MAVS  80-447aa](https://github.com/BioHackatonUdeM/BioHack2019/blob/master/Projet1/MAVS_80-447_ProMod3.pdb) : PDB obtenu par modélisation avec le SWISS-Model ProMod3.
+- [Structure de MAVS  450-468aa](https://github.com/BioHackatonUdeM/BioHack2019/blob/master/Projet1/MAVS_pdb_4z8m_453-461(2).pse) : PDB disponible dans UniProt (4Z8M). Méthode : X-ray.
 
 
 2) Générer la structure de MAVS aa 1- 537
 Les structures additionnelles disponibles sont :
-- [Structure de MAVS 502-508aa](https://github.com/BioHackatonUdeM/2019_Projet_1/blob/master/MAVS_pdb_3rc5_502-508(2).pse) : PDB disponible dans UniProt (3RC5). Méthode : X-ray.
-- [Structure de MAVS 509-537aa](https://github.com/BioHackatonUdeM/2019_Projet_1/blob/master/MAVS_509-537_ProMod3.pdb) : PDB obtenu par modélisation avec le SWISS-Model ProMod3.
+- [Structure de MAVS 502-508aa](https://github.com/BioHackatonUdeM/BioHack2019/blob/master/Projet1/MAVS_pdb_3rc5_502-508(2).pse) : PDB disponible dans UniProt (3RC5). Méthode : X-ray.
+- [Structure de MAVS 509-537aa](https://github.com/BioHackatonUdeM/BioHack2019/blob/master/Projet1/MAVS_509-537_ProMod3.pdb) : PDB obtenu par modélisation avec le SWISS-Model ProMod3.
